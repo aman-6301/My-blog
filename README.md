@@ -24,7 +24,7 @@ The project showcases multiple blog cards with images, titles, author info, and 
 
 ## 🌐 Live Demo
 
-👉 [View Project Here](https://aman-6301.github.io/My-blog/)  
+👉https://aman-6301.github.io/My-blog/
 
 ---
 
