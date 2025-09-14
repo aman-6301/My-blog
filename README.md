@@ -24,7 +24,7 @@ The project showcases multiple blog cards with images, titles, author info, and 
 
 ## 🌐 Live Demo
 
-👉aman-blog.netlify.app
+👉 [View Project Here](https://aman-blog.netlify.app/) 
 
 ---
 
